@@ -1,1 +1,1 @@
-# bwtree
+# BWTree implementation for Go
